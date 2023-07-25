@@ -8,4 +8,4 @@ The data from the 2016 and 2017 seasons offers insights into seasonal usage dema
 
 The data  provided to me for this project has been cleaned and was obtained from the open data portal at [Bixi Montreal](https://www.bixi.com/en/open-data)
 
-The full write up can be found at [Github](https://russ-kibat.github.io/Bixi-1). 
+The full write up can be found at [Github Pages Blog](https://russ-kibat.github.io/Bixi-1). 
